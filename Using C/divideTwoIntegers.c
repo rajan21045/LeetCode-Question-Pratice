@@ -10,7 +10,6 @@ int divide(int dividend, int divisor) {
 
     return dividend / divisor;
 }
-
 int main() {
     int a = 4;
     int b = 2;
