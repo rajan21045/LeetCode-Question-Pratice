@@ -11,7 +11,7 @@ class Solution {
         int result = merged.length;
         
         if(result % 2 != 0){
-            return merged[result/2];
+                return merged[result/2];
         }
             
         else{
