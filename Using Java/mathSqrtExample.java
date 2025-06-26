@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 class mathSqrtExample {
-
     public static int mySqrt(int x) {
         return (int)Math.sqrt(x);
     }
