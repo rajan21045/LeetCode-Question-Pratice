@@ -14,6 +14,7 @@ class mathSqrtExample {
         double result = mySqrt(x);  // Fixed: call static method properly
         System.out.println("Square root of " + x + " is: " + result);
 
+
         sc.close();
     }
 }
