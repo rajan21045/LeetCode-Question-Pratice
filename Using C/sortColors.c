@@ -8,6 +8,7 @@ void sortColors(int* nums, int numsSize) {
     for(i =0; i<numsSize-1;i++){
         for(j =0; j<numsSize-i-1;j++)
         {
+            
             if(nums[j]>nums[j+1])
             {
                 temp = nums[j];
@@ -15,6 +16,7 @@ void sortColors(int* nums, int numsSize) {
                 nums[j+1] = temp;
             }
         }  
+        
     }
     
     printf("Printing Sorted Colors.................... \n ");
