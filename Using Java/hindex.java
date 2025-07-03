@@ -35,7 +35,7 @@ class Solution {
                 h[c]++;
             }
         }
-
+ 
         int count = 0;
         for (int i = n; i >= 0; i--) {
             count += h[i];
