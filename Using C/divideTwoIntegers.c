@@ -8,6 +8,7 @@ int divide(int dividend, int divisor) {
         return INT_MAX;
     }
 
+
     return dividend / divisor;
 }
 int main() {
