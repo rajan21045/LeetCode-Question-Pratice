@@ -7,7 +7,7 @@ class Solution {
 
         System.arraycopy(nums1, 0, merged, 0, nums1.length);
         System.arraycopy(nums2, 0, merged, nums1.length, nums2.length);
-
+ 
         Arrays.sort(merged);
         int result = merged.length;
         
