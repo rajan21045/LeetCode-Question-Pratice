@@ -1,6 +1,6 @@
 # 🧠 LeetCode Practice – Java & C Solutions
 
-This repository contains my solutions to various **LeetCode coding problems**, solved using **Java** and **C** programming languages. The goal is to improve problem-solving skills, strengthen coding fundamentals, and prepare for technical interviews.
+This repository contains my solutions to various **LeetCode coding problems**, solved using **Java** and **C** programming languages. The goal is to improve problem-solving skills, strengthen coding fundamentals, and prepare for technical interviews. 
 
 ---
 
